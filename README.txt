@@ -1,3 +1,4 @@
+此代码为MvCameraControlNet_V2最新sdk
 工业相机SDK提供了两套.Net接口，命名空间分别为：
 1. namespace MvCamCtrl.NET：	示例程序位于 MvCameraControlNet 文件夹下。
 2. namespace MvCameraControl：	示例程序位于 MvCameraControlNet_V2 文件夹下。
