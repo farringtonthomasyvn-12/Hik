@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303E7259-3DDD-45FD-98F3-C52AC2F99061}|General\\ParameterCamera_LoadAndSave\\ParameterCamera_LoadAndSave.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\parametercamera_loadandsave\\parametercamera_loadandsave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303E7259-3DDD-45FD-98F3-C52AC2F99061}|General\\ParameterCamera_LoadAndSave\\ParameterCamera_LoadAndSave.NetStandard.csproj|solutionrelative:general\\parametercamera_loadandsave\\parametercamera_loadandsave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A37CB-4657-4FBC-AD20-D16F5970E5B8}|General\\ParameterCamera_FileAccess\\ParameterCamera_FileAccess.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\parametercamera_fileaccess\\parametercamera_fileaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71A37CB-4657-4FBC-AD20-D16F5970E5B8}|General\\ParameterCamera_FileAccess\\ParameterCamera_FileAccess.NetStandard.csproj|solutionrelative:general\\parametercamera_fileaccess\\parametercamera_fileaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCD4ADB-357C-4143-87BA-58CEA7395524}|General\\Grab_GetImageBuffer\\Grab_GetImageBuffer.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\grab_getimagebuffer\\grab_getimagebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCD4ADB-357C-4143-87BA-58CEA7395524}|General\\Grab_GetImageBuffer\\Grab_GetImageBuffer.NetStandard.csproj|solutionrelative:general\\grab_getimagebuffer\\grab_getimagebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4803DF-7680-4241-9254-4B8D3272059C}|General\\Grab_Callback\\Grab_Callback.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\grab_callback\\grab_callback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4803DF-7680-4241-9254-4B8D3272059C}|General\\Grab_Callback\\Grab_Callback.NetStandard.csproj|solutionrelative:general\\grab_callback\\grab_callback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12717CB-5221-43FF-9734-EEE3AC93CA9C}|LineScanCamera\\ParameterCamera_LineScanIOSettings\\ParameterCamera_LineScanIOSettings.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\linescancamera\\parametercamera_linescaniosettings\\parametercamera_linescaniosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12717CB-5221-43FF-9734-EEE3AC93CA9C}|LineScanCamera\\ParameterCamera_LineScanIOSettings\\ParameterCamera_LineScanIOSettings.NetStandard.csproj|solutionrelative:linescancamera\\parametercamera_linescaniosettings\\parametercamera_linescaniosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14633AFE-322F-432B-BA5E-25912E79431B}|AreaScanCamera\\ParametrizeCamera_AreaScanIOSettings\\ParametrizeCamera_AreaScanIOSettings.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\areascancamera\\parametrizecamera_areascaniosettings\\parametrizecamera_areascaniosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14633AFE-322F-432B-BA5E-25912E79431B}|AreaScanCamera\\ParametrizeCamera_AreaScanIOSettings\\ParametrizeCamera_AreaScanIOSettings.NetStandard.csproj|solutionrelative:areascancamera\\parametrizecamera_areascaniosettings\\parametrizecamera_areascaniosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366DFDAD-DF55-4AAF-944D-502FA18DF4DC}|General\\Reconnect\\Reconnect.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\reconnect\\reconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366DFDAD-DF55-4AAF-944D-502FA18DF4DC}|General\\Reconnect\\Reconnect.NetStandard.csproj|solutionrelative:general\\reconnect\\reconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F704536-FFF7-483D-9DC4-B8C5F5A2154B}|General\\Grab_Strategy\\Grab_Strategy.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\grab_strategy\\grab_strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F704536-FFF7-483D-9DC4-B8C5F5A2154B}|General\\Grab_Strategy\\Grab_Strategy.NetStandard.csproj|solutionrelative:general\\grab_strategy\\grab_strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727539EF-C9FB-4B0D-A756-122D84CFC2B6}|LineScanCamera\\LineScanSoftwareTrigger\\LineScanSoftwareTrigger.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\linescancamera\\linescansoftwaretrigger\\linescansoftwaretrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727539EF-C9FB-4B0D-A756-122D84CFC2B6}|LineScanCamera\\LineScanSoftwareTrigger\\LineScanSoftwareTrigger.NetStandard.csproj|solutionrelative:linescancamera\\linescansoftwaretrigger\\linescansoftwaretrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF2395A-8B26-4464-BBB9-98FBCD27274E}|LineScanCamera\\BasicDemoLineScan\\BasicDemoLineScan.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\linescancamera\\basicdemolinescan\\basicdemolinescan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF2395A-8B26-4464-BBB9-98FBCD27274E}|LineScanCamera\\BasicDemoLineScan\\BasicDemoLineScan.NetStandard.csproj|solutionrelative:linescancamera\\basicdemolinescan\\basicdemolinescan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D063BDD8-9149-4D51-B2CF-B2C5A098F5F9}|AreaScanCamera\\BasicDemo\\BasicDemo.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\areascancamera\\basicdemo\\basicdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D063BDD8-9149-4D51-B2CF-B2C5A098F5F9}|AreaScanCamera\\BasicDemo\\BasicDemo.NetStandard.csproj|solutionrelative:areascancamera\\basicdemo\\basicdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A1755A-97E4-44E7-93E9-FD46FE86888C}|General\\Events_Camera\\Events_Camera.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\events_camera\\events_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A1755A-97E4-44E7-93E9-FD46FE86888C}|General\\Events_Camera\\Events_Camera.NetStandard.csproj|solutionrelative:general\\events_camera\\events_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DD90EF-16FC-4E21-BF65-11B9DDB18546}|General\\Image_Contrast\\Image_Contrast.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\image_contrast\\image_contrast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DD90EF-16FC-4E21-BF65-11B9DDB18546}|General\\Image_Contrast\\Image_Contrast.NetStandard.csproj|solutionrelative:general\\image_contrast\\image_contrast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6037C950-AE29-4568-B4EE-B3044047DE41}|General\\Grab_GigEMultiCast\\Grab_GigEMultiCast.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\grab_gigemulticast\\grab_gigemulticast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6037C950-AE29-4568-B4EE-B3044047DE41}|General\\Grab_GigEMultiCast\\Grab_GigEMultiCast.NetStandard.csproj|solutionrelative:general\\grab_gigemulticast\\grab_gigemulticast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B6EC94-17B9-49C1-B858-6043BD53306E}|General\\Grab_ActionCommand\\Grab_ActionCommand.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\grab_actioncommand\\grab_actioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B6EC94-17B9-49C1-B858-6043BD53306E}|General\\Grab_ActionCommand\\Grab_ActionCommand.NetStandard.csproj|solutionrelative:general\\grab_actioncommand\\grab_actioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F006F83F-F25F-4560-BE2A-4C60B54EA8FA}|General\\Image_ConvertPixelType\\Image_ConvertPixelType.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\general\\image_convertpixeltype\\image_convertpixeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F006F83F-F25F-4560-BE2A-4C60B54EA8FA}|General\\Image_ConvertPixelType\\Image_ConvertPixelType.NetStandard.csproj|solutionrelative:general\\image_convertpixeltype\\image_convertpixeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE47F58-2A24-414D-92FD-23137AF8CE19}|LineScanCamera\\MultiLightCtrl\\MultiLightCtrl.NetStandard.csproj|c:\\users\\dwq\\desktop\\development\\samples\\c#\\mvcameracontrolnet_v2\\linescancamera\\multilightctrl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE47F58-2A24-414D-92FD-23137AF8CE19}|LineScanCamera\\MultiLightCtrl\\MultiLightCtrl.NetStandard.csproj|solutionrelative:linescancamera\\multilightctrl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D063BDD8-9149-4D51-B2CF-B2C5A098F5F9}|AreaScanCamera\\BasicDemo\\BasicDemo.NetStandard.csproj|C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\areascancamera\\basicdemo\\basicdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D063BDD8-9149-4D51-B2CF-B2C5A098F5F9}|AreaScanCamera\\BasicDemo\\BasicDemo.NetStandard.csproj|solutionrelative:areascancamera\\basicdemo\\basicdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParameterCamera_LoadAndSave.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\ParameterCamera_LoadAndSave\\ParameterCamera_LoadAndSave.cs",
+              "RelativeDocumentMoniker": "General\\ParameterCamera_LoadAndSave\\ParameterCamera_LoadAndSave.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\ParameterCamera_LoadAndSave\\ParameterCamera_LoadAndSave.cs",
+              "RelativeToolTip": "General\\ParameterCamera_LoadAndSave\\ParameterCamera_LoadAndSave.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:25:07.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParameterCamera_FileAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\ParameterCamera_FileAccess\\ParameterCamera_FileAccess.cs",
+              "RelativeDocumentMoniker": "General\\ParameterCamera_FileAccess\\ParameterCamera_FileAccess.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\ParameterCamera_FileAccess\\ParameterCamera_FileAccess.cs",
+              "RelativeToolTip": "General\\ParameterCamera_FileAccess\\ParameterCamera_FileAccess.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAAwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:22:40.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParametrizeCamera_AreaScanIOSettings.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\AreaScanCamera\\ParametrizeCamera_AreaScanIOSettings\\ParametrizeCamera_AreaScanIOSettings.cs",
+              "RelativeDocumentMoniker": "AreaScanCamera\\ParametrizeCamera_AreaScanIOSettings\\ParametrizeCamera_AreaScanIOSettings.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\AreaScanCamera\\ParametrizeCamera_AreaScanIOSettings\\ParametrizeCamera_AreaScanIOSettings.cs",
+              "RelativeToolTip": "AreaScanCamera\\ParametrizeCamera_AreaScanIOSettings\\ParametrizeCamera_AreaScanIOSettings.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAIwPsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:15:58.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Grab_Strategy.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Grab_Strategy\\Grab_Strategy.cs",
+              "RelativeDocumentMoniker": "General\\Grab_Strategy\\Grab_Strategy.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Grab_Strategy\\Grab_Strategy.cs",
+              "RelativeToolTip": "General\\Grab_Strategy\\Grab_Strategy.cs",
+              "ViewState": "AgIAAJ0BAAAAAAAAAAAswLMBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:04:21.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grab_Callback.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Grab_Callback\\Grab_Callback.cs",
+              "RelativeDocumentMoniker": "General\\Grab_Callback\\Grab_Callback.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Grab_Callback\\Grab_Callback.cs",
+              "RelativeToolTip": "General\\Grab_Callback\\Grab_Callback.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAswJwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:21:21.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grab_GetImageBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Grab_GetImageBuffer\\Grab_GetImageBuffer.cs",
+              "RelativeDocumentMoniker": "General\\Grab_GetImageBuffer\\Grab_GetImageBuffer.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Grab_GetImageBuffer\\Grab_GetImageBuffer.cs",
+              "RelativeToolTip": "General\\Grab_GetImageBuffer\\Grab_GetImageBuffer.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAswLwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:21:48.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LineScanSoftwareTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\LineScanCamera\\LineScanSoftwareTrigger\\LineScanSoftwareTrigger.cs",
+              "RelativeDocumentMoniker": "LineScanCamera\\LineScanSoftwareTrigger\\LineScanSoftwareTrigger.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\LineScanCamera\\LineScanSoftwareTrigger\\LineScanSoftwareTrigger.cs",
+              "RelativeToolTip": "LineScanCamera\\LineScanSoftwareTrigger\\LineScanSoftwareTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:15:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParameterCamera_LineScanIOSettings.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\LineScanCamera\\ParameterCamera_LineScanIOSettings\\ParameterCamera_LineScanIOSettings.cs",
+              "RelativeDocumentMoniker": "LineScanCamera\\ParameterCamera_LineScanIOSettings\\ParameterCamera_LineScanIOSettings.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\LineScanCamera\\ParameterCamera_LineScanIOSettings\\ParameterCamera_LineScanIOSettings.cs",
+              "RelativeToolTip": "LineScanCamera\\ParameterCamera_LineScanIOSettings\\ParameterCamera_LineScanIOSettings.cs",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAqwF4BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:19:00.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasicDemoLineScan.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\LineScanCamera\\BasicDemoLineScan\\BasicDemoLineScan.cs",
+              "RelativeDocumentMoniker": "LineScanCamera\\BasicDemoLineScan\\BasicDemoLineScan.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\LineScanCamera\\BasicDemoLineScan\\BasicDemoLineScan.cs",
+              "RelativeToolTip": "LineScanCamera\\BasicDemoLineScan\\BasicDemoLineScan.cs",
+              "ViewState": "AgIAAH0CAAAAAAAAAAAIwBADAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:24:22.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reconnect.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Reconnect\\Reconnect.cs",
+              "RelativeDocumentMoniker": "General\\Reconnect\\Reconnect.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Reconnect\\Reconnect.cs",
+              "RelativeToolTip": "General\\Reconnect\\Reconnect.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAuwD0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:19:58.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Image_Contrast.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Image_Contrast\\Image_Contrast.cs",
+              "RelativeDocumentMoniker": "General\\Image_Contrast\\Image_Contrast.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Image_Contrast\\Image_Contrast.cs",
+              "RelativeToolTip": "General\\Image_Contrast\\Image_Contrast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:10:30.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Grab_GigEMultiCast.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Grab_GigEMultiCast\\Grab_GigEMultiCast.cs",
+              "RelativeDocumentMoniker": "General\\Grab_GigEMultiCast\\Grab_GigEMultiCast.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Grab_GigEMultiCast\\Grab_GigEMultiCast.cs",
+              "RelativeToolTip": "General\\Grab_GigEMultiCast\\Grab_GigEMultiCast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:09:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasicDemo.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\AreaScanCamera\\BasicDemo\\BasicDemo.cs",
+              "RelativeDocumentMoniker": "AreaScanCamera\\BasicDemo\\BasicDemo.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\AreaScanCamera\\BasicDemo\\BasicDemo.cs",
+              "RelativeToolTip": "AreaScanCamera\\BasicDemo\\BasicDemo.cs",
+              "ViewState": "AgIAAGACAAAAAAAAAAAYwHACAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:58:04.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Events_Camera.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Events_Camera\\Events_Camera.cs",
+              "RelativeDocumentMoniker": "General\\Events_Camera\\Events_Camera.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Events_Camera\\Events_Camera.cs",
+              "RelativeToolTip": "General\\Events_Camera\\Events_Camera.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAswL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T01:16:59.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Grab_ActionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Grab_ActionCommand\\Grab_ActionCommand.cs",
+              "RelativeDocumentMoniker": "General\\Grab_ActionCommand\\Grab_ActionCommand.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Grab_ActionCommand\\Grab_ActionCommand.cs",
+              "RelativeToolTip": "General\\Grab_ActionCommand\\Grab_ActionCommand.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAswPoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:23:11.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Image_ConvertPixelType.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Image_ConvertPixelType\\Image_ConvertPixelType.cs",
+              "RelativeDocumentMoniker": "General\\Image_ConvertPixelType\\Image_ConvertPixelType.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\General\\Image_ConvertPixelType\\Image_ConvertPixelType.cs",
+              "RelativeToolTip": "General\\Image_ConvertPixelType\\Image_ConvertPixelType.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:17:37.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\LineScanCamera\\MultiLightCtrl\\Program.cs",
+              "RelativeDocumentMoniker": "LineScanCamera\\MultiLightCtrl\\Program.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\LineScanCamera\\MultiLightCtrl\\Program.cs",
+              "RelativeToolTip": "LineScanCamera\\MultiLightCtrl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:16:15.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BasicDemo.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\AreaScanCamera\\BasicDemo\\BasicDemo.cs",
+              "RelativeDocumentMoniker": "AreaScanCamera\\BasicDemo\\BasicDemo.cs",
+              "ToolTip": "C:\\Users\\DWQ\\Desktop\\Development\\Samples\\C#\\MvCameraControlNet_V2\\AreaScanCamera\\BasicDemo\\BasicDemo.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "AreaScanCamera\\BasicDemo\\BasicDemo.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:57:56.573Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

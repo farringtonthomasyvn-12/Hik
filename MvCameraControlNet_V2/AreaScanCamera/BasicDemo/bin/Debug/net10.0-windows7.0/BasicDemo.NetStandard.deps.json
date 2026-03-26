@@ -1,0 +1,44 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BasicDemo.NetStandard/1.0.0": {
+        "dependencies": {
+          "MvCameraControl.Net": "4.7.0.2"
+        },
+        "runtime": {
+          "BasicDemo.NetStandard.dll": {}
+        },
+        "resources": {
+          "zh-CHS/BasicDemo.NetStandard.resources.dll": {
+            "locale": "zh-CHS"
+          }
+        }
+      },
+      "MvCameraControl.Net/4.7.0.2": {
+        "runtime": {
+          "MvCameraControl.Net.dll": {
+            "assemblyVersion": "4.7.0.2",
+            "fileVersion": "4.7.0.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicDemo.NetStandard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MvCameraControl.Net/4.7.0.2": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
